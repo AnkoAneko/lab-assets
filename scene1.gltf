@@ -1,0 +1,443 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 3007,
+      "max": [
+        19.834442138671875,
+        15.907103538513184,
+        37.79652786254883
+      ],
+      "min": [
+        -17.9739933013916,
+        -2.3334579467773438,
+        -60.76484680175781
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 36084,
+      "componentType": 5126,
+      "count": 3007,
+      "max": [
+        0.9994649291038513,
+        0.9999917149543762,
+        0.9978971481323242
+      ],
+      "min": [
+        -0.9996365308761597,
+        -0.9999788999557495,
+        -0.997897207736969
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 3007,
+      "max": [
+        0.999998927116394,
+        0.9999462962150574,
+        0.9989932775497437,
+        1.0
+      ],
+      "min": [
+        -0.999364972114563,
+        -0.9992053508758545,
+        -0.9962498545646667,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 3007,
+      "max": [
+        0.9877774119377136,
+        0.9862193465232849
+      ],
+      "min": [
+        0.007780924905091524,
+        0.011094892397522926
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 24056,
+      "componentType": 5126,
+      "count": 3007,
+      "max": [
+        0.9877774119377136,
+        0.9862193465232849
+      ],
+      "min": [
+        0.007780924905091524,
+        0.011094892397522926
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 48112,
+      "componentType": 5126,
+      "count": 3007,
+      "max": [
+        0.9877774119377136,
+        0.9862193465232849
+      ],
+      "min": [
+        0.007780924905091524,
+        0.011094892397522926
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 13884,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 72168,
+      "componentType": 5126,
+      "count": 2942,
+      "max": [
+        20.01677703857422,
+        16.103313446044922,
+        37.988975524902344
+      ],
+      "min": [
+        -18.171606063842773,
+        -2.5284228324890137,
+        -60.95621109008789
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 107472,
+      "componentType": 5126,
+      "count": 2942,
+      "max": [
+        0.9992984533309937,
+        0.9999738335609436,
+        0.9979501366615295
+      ],
+      "min": [
+        -0.9995242357254028,
+        -0.9999915957450867,
+        -0.9977717399597168
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 72168,
+      "componentType": 5126,
+      "count": 2942,
+      "max": [
+        0.9877774119377136,
+        0.9862193465232849
+      ],
+      "min": [
+        0.007780924905091524,
+        0.011094892397522926
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 55536,
+      "componentType": 5125,
+      "count": 14232,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "ironfanch (https://sketchfab.com/ironfanch)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/genshin-impact-artefact-sundered-feather-68971746ffb3429383d268e118340677",
+      "title": "Genshin Impact Artefact - Sundered Feather"
+    },
+    "generator": "Sketchfab-13.58.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 112464,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 95704,
+      "byteOffset": 112464,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 142776,
+      "byteOffset": 208168,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 48112,
+      "byteOffset": 350944,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 399056,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/Mat-feather_baseColor.png"
+    },
+    {
+      "uri": "textures/Mat-feather_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/Mat-feather_emissive.png"
+    },
+    {
+      "uri": "textures/Mat-feather_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "emissiveFactor": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emissiveTexture": {
+        "index": 2
+      },
+      "name": "Mat-feather",
+      "normalTexture": {
+        "index": 3
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.9,
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    },
+    {
+      "name": "Mat-feather-shade",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "metallicFactor": 0.0
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Plume of Death_Mat-feather_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3,
+            "TEXCOORD_1": 4,
+            "TEXCOORD_2": 5
+          },
+          "indices": 6,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Plume of death Shade_Mat-feather-shade_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 8,
+            "POSITION": 7,
+            "TEXCOORD_0": 9
+          },
+          "indices": 10,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.009999999776482582,
+        0.0,
+        0.0,
+        -0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "69a5f194842d44599fa79505d7400f32.fbx"
+    },
+    {
+      "children": [
+        3,
+        5
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        0.9632469207657226,
+        0.07956477827871783,
+        0.25656324070982195,
+        0.0,
+        0.2686123551159197,
+        -0.2795086475411248,
+        -0.9218038395606791,
+        0.0,
+        -0.0016314734970590313,
+        0.9568406522657675,
+        -0.2906078919059361,
+        0.0,
+        -1.311387062072754,
+        12.978597640991211,
+        -8.37795639038086,
+        1.0
+      ],
+      "name": "Plume of Death"
+    },
+    {
+      "mesh": 0,
+      "name": "Plume of Death_Mat-feather_0"
+    },
+    {
+      "children": [
+        6
+      ],
+      "matrix": [
+        0.9632469207657226,
+        0.07956477827871783,
+        0.25656324070982195,
+        0.0,
+        0.2686123551159197,
+        -0.2795086475411248,
+        -0.9218038395606791,
+        0.0,
+        -0.0016314734970590313,
+        0.9568406522657675,
+        -0.2906078919059361,
+        0.0,
+        -1.311387062072754,
+        12.978597640991211,
+        -8.37795639038086,
+        1.0
+      ],
+      "name": "Plume of death Shade"
+    },
+    {
+      "mesh": 1,
+      "name": "Plume of death Shade_Mat-feather-shade_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    }
+  ]
+}
